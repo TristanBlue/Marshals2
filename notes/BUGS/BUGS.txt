@@ -1,0 +1,2 @@
+
+ -Player bullet seems to be arching upward? Could it have something to do with the screenshake? 

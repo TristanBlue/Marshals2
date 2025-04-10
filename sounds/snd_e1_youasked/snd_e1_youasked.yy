@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_e1_youasked",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.35966,
+  "name":"snd_e1_youasked",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_e1_youasked.wav",
+  "type":0,
+  "volume":1.0,
+}

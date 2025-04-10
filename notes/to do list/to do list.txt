@@ -1,0 +1,19 @@
+-enemy alligator deaths
+
+-splash particles
+
+-enemy leg deaths
+
+-enemy head deaths
+
+-enemy hatless
+
+-2 player
+
+-player damage
+
+-more interactables
+
+-enemy edge detection
+
+-glass/bottles break if object they're on is destroyed

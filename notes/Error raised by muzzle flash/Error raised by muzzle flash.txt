@@ -1,0 +1,12 @@
+
+___________________________________________
+############################################################################################
+ERROR in
+action number 1
+of  Step Event0
+for object o_muzzle_flash:
+
+Unable to find any instance for object index '13' name 'o_player1'
+ at gml_Object_o_muzzle_flash_Step_0 (line 3) - if o_player1.sprite_index = s_marshal2_crouch{
+############################################################################################
+gml_Object_o_muzzle_flash_Step_0 (line 3)

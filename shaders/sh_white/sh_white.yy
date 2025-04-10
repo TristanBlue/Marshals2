@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_white",
+  "name":"sh_white",
+  "parent":{
+    "name":"Timelines",
+    "path":"folders/Timelines.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

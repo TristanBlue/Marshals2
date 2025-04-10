@@ -1,0 +1,11 @@
+"Peckerhead"
+
+Enemy Awareness: "Hey!"
+				 "What!"
+				 "Who's there?"
+				 "Get em!"
+				 "what the hell!"
+				 "God damnit!"
+				 "Huh?"
+				 "You asked for it"
+				 

@@ -1,0 +1,7 @@
+-How to create an object with different reactions to collisions with 
+different parts of the collision mask.
+
+-How to create an audio system that randomizes sounds and never 
+repeats them back to back.
+
+-gun inventory and upgrades?
