@@ -36,10 +36,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"s_enemy5",
-    "path":"sprites/s_enemy5/s_enemy5.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
