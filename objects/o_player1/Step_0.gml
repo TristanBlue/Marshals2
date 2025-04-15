@@ -140,7 +140,7 @@ vsp = vsp + grv;
 
 if (place_meeting(x,y+1,o_solid)) && (key_jump)
 {
-	vsp = -7;	
+	vsp = -5;	
 }
 
 //Shooting
